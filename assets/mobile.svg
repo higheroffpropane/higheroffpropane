@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="214" viewBox="0 0 1000 214">
+  <title>Dmitry Skochilov · Mobile developer</title>
+  <defs>
+    <linearGradient id="bg" x2="1" y2=".3" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101e33"/><stop offset="1" stop-color="#173946"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#b0e6dd" opacity=".15"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="214" rx="18" fill="url(#bg)"/>
+  <rect x="610" width="390" height="214" fill="url(#grid)"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="48" y="65" fill="#8ee2cf" font-size="21" font-weight="600">Mobile developer</text>
+    <text x="45" y="125" fill="#f1f7fa" font-size="55" font-weight="700">Dmitry Skochilov</text>
+    <text x="48" y="170" fill="#cbdae4" font-size="24">Android  /  Kotlin Multiplatform  /  Flutter</text>
+  </g>
+  <g transform="translate(811 106) rotate(12)">
+    <rect x="-39" y="-82" width="83" height="157" rx="15" fill="#254556" stroke="#6097a3" stroke-width="2"/>
+    <rect x="-48" y="-73" width="83" height="157" rx="15" fill="#192e41" stroke="#a2dbc9" stroke-width="3"/>
+    <rect x="-20" y="-64" width="28" height="3" rx="1.5" fill="#7caaaa"/>
+    <circle cx="-6" cy="-16" r="12" fill="#ffc47d"/>
+    <ellipse cx="-6" cy="-16" rx="26" ry="7" transform="rotate(-25 -6 -16)" stroke="#f2cc99" fill="none" stroke-width="2"/>
+    <path d="M-34 17h55m-55 10h34m-34 11h43" stroke="#75b7b7" stroke-width="3" stroke-linecap="round"/>
+    <rect x="-34" y="53" width="37" height="10" rx="5" fill="#8ee2cf"/>
+  </g>
+</svg>
